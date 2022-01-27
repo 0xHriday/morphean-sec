@@ -3,10 +3,13 @@
 ![](https://media.giphy.com/media/DDwqcj5uTdFifg8zsn/giphy.gif)
 ____
 
+Welcome to my Github profile. I occasionally put out material related to the following:
 
 - Blockchain security research
 - Rust, Python, Solidity and C
 - Web app and network offensive security
+
+You can chat with me via the SkidsDAO discord server down below or through [Twitter](https://twitter.com/morphean_sec)
 
 - 🏆 - [An Updated fork of Crytic's Awesome Ethereum Security](https://github.com/morphean-sec/awesome-ethereum-security)
 - 🌱 - [SkidsDAO, a hacker and cypherpunk collective](https://discord.com/invite/NHNRUKMCz2)
