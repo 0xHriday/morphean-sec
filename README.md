@@ -1,5 +1,8 @@
 # Sleepy
 
+<a href="https://twitter.com/morphean_sec"><img src="https://img.shields.io/twitter/follow/morphean_sec?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://github.com/morphean-sec"><img src="https://img.shields.io/github/followers/morphean-sec.svg?label=GitHub&style=social" alt="GitHub"></a>
+
 ![](https://media.giphy.com/media/DDwqcj5uTdFifg8zsn/giphy.gif)
 ____
 
@@ -20,5 +23,5 @@ ____
 [![Sleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=morphean-sec)](https://github.com/morphean-sec/github-readme-stats)
 
 <sup>
-Be a Hero, tip a 🍺 🙂 ⟶ Ξth: 0x87fda6eeff0a6b016e798bdc5bc6304b23368024
+Tip/Donate ⟶ Eth: 0x87fda6eeff0a6b016e798bdc5bc6304b23368024
 </sup>
