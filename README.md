@@ -1,7 +1,6 @@
 # Sleepy
 
 <a href="https://twitter.com/morphean_sec"><img src="https://img.shields.io/twitter/follow/morphean_sec?label=Twitter&style=social" alt="Twitter"></a>
-<a href="https://github.com/morphean-sec"><img src="https://img.shields.io/github/followers/morphean-sec.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 ![](https://media.giphy.com/media/DDwqcj5uTdFifg8zsn/giphy.gif)
 ____
