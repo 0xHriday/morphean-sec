@@ -14,6 +14,7 @@ Welcome to my Github profile. I occasionally put out material related to the fol
 You can chat with me via the SkidsDAO discord server down below or through [Twitter](https://twitter.com/morphean_sec)
 
 - 🏆 - [An Updated fork of Crytic's Awesome Ethereum Security](https://github.com/morphean-sec/awesome-ethereum-security)
+- 👷 - [Solidity DevSecOps Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
 - 🌱 - [SkidsDAO, a hacker and cypherpunk collective](https://discord.com/invite/NHNRUKMCz2)
 - 👷 - [Smart Contract Secure Design Principles](https://github.com/morphean-sec/secure-smart-contract-design-principles)
 - 🏆 - [Hacking the Blockchain: A guide to getting started in blockchain security](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
